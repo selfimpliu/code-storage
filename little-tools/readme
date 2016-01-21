@@ -1,0 +1,1 @@
+implements some demo tools, such as search-engine, storage-engine, http serser(nginx), servlet container(tomcat), mem-db(memcache, redis), distribute system(zookeeper) and so on
